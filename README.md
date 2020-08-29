@@ -3,11 +3,11 @@
 ## Description
 .bat script to delete extention
 
-##Usage:
+## Usage:
 Just enter your file
 
-##Example:
+## Example:
 file.rar
 
-##WARNING: 
+## WARNING: 
 Don't forget enter your file with .rar .zip .txt etc
