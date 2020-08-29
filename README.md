@@ -12,5 +12,5 @@ file.rar
 ## WARNING: 
 Don't forget enter your file with .rar .zip .txt etc
 
-![alt text](https://hizliresim.com/wCUteJ)
-![alt text](https://hizliresim.com/jY9sJs)
+![alt text](https://hizliresim.com/wCUteJ.png)
+![alt text](https://hizliresim.com/jY9sJs.png)
