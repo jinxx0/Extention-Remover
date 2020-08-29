@@ -9,6 +9,8 @@
 2:Recover your files after crypt virus
 
 3:Simple way for delete file extension
+## For crypt virus:
+Enter only file extention not file name. Your all .example files will extention removed.
 ## Example:
 file.rar
 
