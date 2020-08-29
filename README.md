@@ -1,7 +1,7 @@
 # Extention-Remover
 
 ## Description
-.bat script to delete extention
+.bat script to delete file extention
 
 ## Usage:
 Just enter your file
