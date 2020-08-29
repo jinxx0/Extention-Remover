@@ -3,8 +3,8 @@
 ## Description
 .bat script to delete file extention
 
-## Usage:
-Just enter your file
+## Using for:
+Bypass file extention (Errors like: We don't allow .zip .txt or etc)
 
 ## Example:
 file.rar
