@@ -4,8 +4,9 @@
 .bat script to delete file extention
 
 ## Using for:
-Bypass file extention (Errors like: We don't allow .zip .txt or etc)
-
+1:Bypass file extention (Errors like: We don't allow .zip .txt or etc)
+2:Recover your files after crypt virus
+3:Simple way for delete file extension
 ## Example:
 file.rar
 
