@@ -17,7 +17,7 @@ file.rar
 ## WARNING: 
 Don't forget enter your file with .rar .zip .txt etc
 
-## Tutorial:
+## Screenshot
 ![alt text](https://i.hizliresim.com/wCUteJ.png)
 ## -
 ![alt text](https://i.hizliresim.com/jY9sJs.png)
