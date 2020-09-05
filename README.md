@@ -18,6 +18,4 @@ file.rar
 Don't forget enter your file with .rar .zip .txt etc
 
 ## Screenshot
-![alt text](https://i.hizliresim.com/wCUteJ.png)
-## -
-![alt text](https://i.hizliresim.com/jY9sJs.png)
+![alt text](https://i.ibb.co/0DfTTFK/a32.png)
